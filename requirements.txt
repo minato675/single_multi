@@ -1,0 +1,6 @@
+pymatgen>=2026.4.16
+pandas>=2.2.1
+numpy>=1.26.4
+chgnet==0.4.2
+mp-api==0.46.1
+openpyxl>=3.1.2
